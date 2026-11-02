@@ -1,0 +1,50 @@
+{
+  "description": "Six handcrafted Georgian smoke cases, not a held-out benchmark.",
+  "threshold": 0.8,
+  "cases": [
+    {
+      "question": "რამდენ ხანს შემიძლია წიგნის დატოვება?",
+      "expected_page": 1,
+      "keyword_page": 1,
+      "semantic_page": 1,
+      "top_similarity": 0.8425
+    },
+    {
+      "question": "როდის იკეტება ბიბლიოთეკა?",
+      "expected_page": 2,
+      "keyword_page": 2,
+      "semantic_page": 2,
+      "top_similarity": 0.8501
+    },
+    {
+      "question": "როგორ დავრეგისტრირდე?",
+      "expected_page": 3,
+      "keyword_page": null,
+      "semantic_page": null,
+      "top_similarity": 0.7962
+    },
+    {
+      "question": "დამავიწყდა პაროლი, როგორ შევიდე ანგარიშში?",
+      "expected_page": 4,
+      "keyword_page": null,
+      "semantic_page": 4,
+      "top_similarity": 0.8396
+    },
+    {
+      "question": "რა ღირს ბიბლიოთეკის წევრობა?",
+      "expected_page": null,
+      "keyword_page": null,
+      "semantic_page": 2,
+      "top_similarity": 0.807
+    },
+    {
+      "question": "ვინ მოიგო ფეხბურთის მსოფლიო ჩემპიონატი?",
+      "expected_page": null,
+      "keyword_page": null,
+      "semantic_page": null,
+      "top_similarity": 0.7545
+    }
+  ],
+  "keyword_correct": 4,
+  "semantic_correct": 4
+}
